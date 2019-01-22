@@ -1,5 +1,5 @@
 import cv2
-bimport numpy
+import numpy
 
 from utils import get_image_paths, load_images, stack_images
 from training_data import get_training_data
